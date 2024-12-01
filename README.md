@@ -8,12 +8,16 @@ Each day's challenge is organized in its own directory with the following struct
 ```
 advent-of-code-2024/
 ├── day01/
-│   ├── script.py      # Solution code
+│   ├── 1.py           # Solution code
+│   ├── 2.py           # Solution code
 │   ├── input.txt      # Puzzle input
+│   ├── test.txt       # Puzzle test input
 │   └── README.md      # Notes and explanations
 ├── day02/
-│   ├── script.py
-│   ├── input.txt 
+│   ├── 1.py           # Solution code
+│   ├── 2.py           # Solution code
+│   ├── input.txt      # Puzzle input
+│   ├── test.txt       # Puzzle test input
 │   └── README.md
 └── ...
 ```
@@ -26,11 +30,10 @@ cd dayXX
 python script.py
 
 ## Progress
-> ⭐ 
 
 | Day | Part 1 | Part 2 | Notes |
 |-----|---------|---------|-------|
-| [Day 1](day01/) |  |  | 
+| [Day 1](day01/) | ⭐ | ⭐ | Suspeciously Easy |
 
 ## Notes
 
